@@ -1,5 +1,12 @@
 # Lab4Web
 
+# Pertanyaan dan Tugas
+# 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
+![image](https://github.com/RianFauza/Lab4Web/assets/115771479/3f495695-4c6e-4a41-9d87-df8893e604d8)
+
+# 2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+![image](https://github.com/RianFauza/Lab4Web/assets/115771479/78329af2-ec35-4a34-89c4-5a53265e1e95)
+
 # Membuat Box Element Dan CSS Float Property
 ![image](https://github.com/RianFauza/Lab4Web/assets/115771479/571e8ae6-c553-46e0-ac39-7d7630a96a97)
 
